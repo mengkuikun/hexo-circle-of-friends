@@ -6,7 +6,6 @@
 /db/target
 .vscode/
 *.db
-data.json
 .DS_Store
 logs/
 __pycache__/
