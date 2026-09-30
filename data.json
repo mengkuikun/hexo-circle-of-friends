@@ -1,0 +1,20 @@
+{
+  "statistical_data": {
+    "friends_num": 1,
+    "active_num": 1,
+    "error_num": 0,
+    "article_num": 1,
+    "last_updated_time": "2026-09-30 19:09:26"
+  },
+  "article_data": [
+    {
+      "floor": 1,
+      "title": "写博客还要每次开本地服务？本地 Markdown 即时预览与沉浸阅读模式食用指南",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "link": "https://blog.mengku.shop/posts/markdown-preview-and-reading-mode/",
+      "author": "夢酷",
+      "avatar": "https://blog.mengku.shop/avatar.jpg"
+    }
+  ]
+}
